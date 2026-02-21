@@ -207,13 +207,3 @@ http://localhost:8080
 * All APIs follow REST conventions
 
 ---
-
-
-
-
-* Tailor this for **resume / LinkedIn**
-* Add **Swagger documentation**
-* Create **Postman collection**
-* Write **unit tests**
-
-Just tell me 💙
